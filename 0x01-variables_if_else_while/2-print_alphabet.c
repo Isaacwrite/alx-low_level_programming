@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - Entry point
  *
@@ -8,11 +9,13 @@
  */
 int main(void)
 {
-	char low;
+	char alpha = 'a';
 
-	for (low = 'a'; low <= 'z'; low++)
-		putchar(low);
-		printf("\n")
-
+	while (alpha <= 'z')
+	{
+		putchar (alpha);
+		alpha++;
+			}
+	putchar('\n');
 	return (0);
 }
