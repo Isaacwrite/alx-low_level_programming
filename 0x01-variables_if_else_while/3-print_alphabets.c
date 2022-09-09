@@ -1,5 +1,6 @@
 /*
  * File: 3-print_alphabets.c
+ * Auth: Isaac O
  */
 
 #include <stdio.h>
@@ -19,7 +20,7 @@ int main(void)
 	for (letter = 'A'; letter <= 'Z'; letter++)
 		putchar(letter);
 
-	putchar('\n')
+	putchar('\n');
 
 	return (0);
 }
