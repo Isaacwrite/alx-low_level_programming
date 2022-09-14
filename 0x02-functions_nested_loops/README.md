@@ -1,3 +1,1 @@
-Write a program that prints _putchar, followed by a new line.
-
-The program should return 0
+Write a function that prints 10 times the alphabet, in lowercase, followed by a new line
