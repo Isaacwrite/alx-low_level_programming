@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main-Print putcher 
- * Return:0
+ * main-Print putcher
+ * Return: 0
  */
 int main(void)
 {
