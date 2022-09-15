@@ -1,11 +1,14 @@
-#include "main.h"
+/*
+ * File: 3-print_numbers.c
+ * Auth: Isaac O
+ */
+
+#include "holberton.h"
 
 /**
- ** print_numbers - print 0 - 9
- *
- * Return: Always 0.
+ * print_numbers - Prints the numbers from 0-9.
  */
-void print_numbers(void);
+void print_numbers(void)
 {
 	int num;
 
