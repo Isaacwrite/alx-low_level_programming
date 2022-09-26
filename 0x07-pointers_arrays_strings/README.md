@@ -1,3 +1,3 @@
-Write a function that prints the chessboard.
+Write a function that sets the value of a pointer to a char.
 
-Prototype: void print_chessboard(char (*a)[8]);
+Prototype: void set_string(char **s, char *to);
